@@ -860,7 +860,7 @@
 * [Build Your Own Lisp](http://www.buildyourownlisp.com)
 * [C for Python Programmers - Carl Burch](http://www.toves.org/books/cpy/)
 * [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
-* [C Programming Boot Camp - Paul Gribble](http://www.gribblelab.org/CBootCamp/)
+* [C Programming Boot Camp - Paul Gribble](https://gribblelab.org/teaching/CBootCamp/)
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
 * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF)
 * [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/)
